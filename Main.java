@@ -10,9 +10,9 @@ public class Main {
     boolean result1 = true;
     boolean result2 = false;
     String myString = "Shovon";
-    int [] arr1 = {11,12,13,14};
+                int [] arr1 = {11,12,13,14};
 
-    System.out.println("Hello world");
+                     System.out.println("Hello world");
     System.out.print("Hello world");
     System.out.println();
     System.out.printf("Formated val = %.2f\n", d1);
